@@ -96,8 +96,8 @@ def parse_eq_log(filepath, target_temp, system_type):
     }
 
 if __name__ == "__main__":
-    base_dir = "
-    raw_dir = os.path.join(base_dir, "raw_files")
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    data_dir = os.path.join(base_dir, "data")
     
     logs = [
         # Control logs

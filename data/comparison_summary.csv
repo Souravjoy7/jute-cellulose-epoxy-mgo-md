@@ -1,0 +1,7 @@
+Temperature (K),System,Peak Force (nN),ICSS (MPa),Work of Adhesion (eV),Stiffness (nN/A)
+300,Pure Epoxy Control,14.111,439.61,35.29,7.426
+300,MgO Reinforced,13.622,424.38,34.37,7.254
+350,Pure Epoxy Control,14.192,442.15,34.73,7.541
+350,MgO Reinforced,13.981,435.58,35.69,7.575
+400,Pure Epoxy Control,14.558,453.54,35.67,7.868
+400,MgO Reinforced,13.660,425.57,34.62,7.255
